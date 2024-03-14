@@ -1,1 +1,2 @@
-# java_bank_account
+# Java project: Bank Account system
+A Java project from school from 2016
